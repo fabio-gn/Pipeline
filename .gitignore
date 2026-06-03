@@ -1,0 +1,20 @@
+# Ambiente virtuale
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variabili d'ambiente
+.env
+
+# VSCode
+.vscode/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
